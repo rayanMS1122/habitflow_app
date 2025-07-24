@@ -43,7 +43,7 @@ A clean, animated, and minimal habit-tracking app built with Flutter.
 
 ## 🚀 Getting Started
 ```bash
-git clone [<repo-url>](https://github.com/rayanMS1122/habitflow_app.git)
+git clone https://github.com/rayanMS1122/habitflow_app.git
 cd habitflow_app
 flutter pub get
 flutter run
